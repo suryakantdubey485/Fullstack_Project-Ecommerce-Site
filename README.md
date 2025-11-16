@@ -1,4 +1,4 @@
-# Fullstack_Project-Ecommerce-Site (23BCS10245 & 23BCS10129)
+# Fullstack_Project-Ecommerce-Site (23BCS10129 & 23BCS10245)
 # 🛒 Shophop — Modern E-Commerce Platform (MERN)
 
 Shophop is a modern e‑commerce web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). All product prices are displayed in Indian Rupees (₹).
